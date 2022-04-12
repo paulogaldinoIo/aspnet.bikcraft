@@ -16,9 +16,7 @@ D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTE
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\Bikcraft_final.RazorAssemblyInfo.cs
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\staticwebassets.build.json
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\staticwebassets.development.json
-D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\scopedcss\bundle\Bikcraft_final.styles.css
-D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\scopedcss\projectbundle\Bikcraft_final.bundle.scp.css
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\Bikcraft_final.dll
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\refint\Bikcraft_final.dll
 D:\Documents\Desenvolvimento\PROJETOS\C#\Core\ORIGAMID\HTML_E_CSS_PARA_INICIANTES\Bikcraft_final\Bikcraft_final\obj\Debug\net6.0\Bikcraft_final.pdb
